@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppListaCadastroAnimaisLuizIbarra</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtNomeAnimal">AnimalName</string>
+    <string name="txtIdade">Age</string>
+    <string name="txtCategoria">Category</string>
+    <string name="Selecione">Select...</string>
+    <string name="hintIdade">Enter age</string>
+    <string name="txtNovaCategoria">New category...</string>
+    <string name="hintNome">Enter the animal name</string>
+    <string name="hintCategoria">Enter the category name</string>
+    <string name="txtSalvar">Save</string>
+    <string name="txtCancelar">Cancel</string>
+    <string name="txtAtencao">Attention!!!</string>
+    <string name="txtCamposObrigatorios">Enter requered fields, name and category!</string>
+</resources>
